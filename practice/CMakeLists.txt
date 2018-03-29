@@ -7,4 +7,4 @@ set(CMAKE_CXX_FLAGS "-std=c++14 -Wall" )
 set(CMAKE_CXX_FLAGS_DEBUG "-g -O0")
 
 
-add_executable(abc047b_other abc047b_other.cpp)
+add_executable(abc081c abc081c.cpp)
